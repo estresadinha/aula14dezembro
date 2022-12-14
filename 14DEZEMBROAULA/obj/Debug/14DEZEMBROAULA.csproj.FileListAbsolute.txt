@@ -1,0 +1,11 @@
+C:\Users\manuele.capereira\source\repos\14DEZEMBROAULA\bin\Debug\14DEZEMBROAULA.exe.config
+C:\Users\manuele.capereira\source\repos\14DEZEMBROAULA\bin\Debug\14DEZEMBROAULA.exe
+C:\Users\manuele.capereira\source\repos\14DEZEMBROAULA\bin\Debug\14DEZEMBROAULA.pdb
+C:\Users\manuele.capereira\source\repos\14DEZEMBROAULA\obj\Debug\14DEZEMBROAULA.csproj.AssemblyReference.cache
+C:\Users\manuele.capereira\source\repos\14DEZEMBROAULA\obj\Debug\14DEZEMBROAULA.csproj.SuggestedBindingRedirects.cache
+C:\Users\manuele.capereira\source\repos\14DEZEMBROAULA\obj\Debug\_14DEZEMBROAULA.Form1.resources
+C:\Users\manuele.capereira\source\repos\14DEZEMBROAULA\obj\Debug\_14DEZEMBROAULA.Properties.Resources.resources
+C:\Users\manuele.capereira\source\repos\14DEZEMBROAULA\obj\Debug\14DEZEMBROAULA.csproj.GenerateResource.cache
+C:\Users\manuele.capereira\source\repos\14DEZEMBROAULA\obj\Debug\14DEZEMBROAULA.csproj.CoreCompileInputs.cache
+C:\Users\manuele.capereira\source\repos\14DEZEMBROAULA\obj\Debug\14DEZEMBROAULA.exe
+C:\Users\manuele.capereira\source\repos\14DEZEMBROAULA\obj\Debug\14DEZEMBROAULA.pdb
